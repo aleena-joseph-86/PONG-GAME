@@ -1,0 +1,25 @@
+body {
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#resetbtn{
+    border-radius: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#resetbtn:hover{
+    background-color: skyblue;
+}
+
+
+#board {
+    background-color: rgb(8, 8, 52);
+    border-top: 3px solid skyblue;
+    border-bottom: 3px solid skyblue;
+    border-left: 3px solid skyblue;
+    border-right: 3px solid skyblue;
+}
